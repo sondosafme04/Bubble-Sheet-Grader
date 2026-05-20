@@ -71,3 +71,15 @@ Metrics: Accuracy
 ## Requirements
 
 Install the required packages (automatically in Colab):
+tensorflow
+gradio
+seaborn
+scikit-learn
+matplotlib
+opencv-python
+pandas
+numpy
+
+
+
+
